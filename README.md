@@ -15,6 +15,10 @@
 
 ### 추가자료
 ---
+- [프로젝트 시연 영상 1 ](https://youtu.be/wDm8kGihpuE?feature=shared)
+
+- [프로젝트 시연 영상 2 ](https://youtu.be/HSs4nn2szYo)
+
 
 ### DEVELOPER
 ---
