@@ -7,8 +7,8 @@ public class MyAuthentication  extends Authenticator{
     PasswordAuthentication pa;
     public MyAuthentication(){
          
-        String id = "hyunatmp@gmail.com";  //구글 이메일 아이디
-        String pw = "vdfviwfzpcwtpxot";        //구글 비밀번호
+        String id = "*****@gmail.com";  //구글 이메일 아이디
+        String pw = "*****";        //구글 비밀번호
  
         pa = new PasswordAuthentication(id, pw);
     }
