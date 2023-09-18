@@ -48,7 +48,7 @@ public class MailController extends Thread{
 		try {
 			msg.setSentDate(new Date());
 			InternetAddress from=new InternetAddress();
-			from= new InternetAddress("hyunatmp@gmail.com","박종현"); //발신자 아이디
+			from= new InternetAddress("****@gmail.com","박종현"); //발신자 아이디
 			 // 이메일 발신자
             msg.setFrom(from);
             // 이메일 수신자
