@@ -18,3 +18,11 @@
 
 ### DEVELOPER
 ---
+- 황기연
+  - [github](https://github.com/GiyeonHwang)
+- 마기창
+  - [github](https://github.com/smreo3839) 
+- 박종현
+  - [github](https://github.com/JackyparkCode) 
+- 박호준
+  - [github](https://github.com/hoejun1208)    
