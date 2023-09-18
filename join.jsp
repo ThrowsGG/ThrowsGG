@@ -11,7 +11,7 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 <!-- 구글 로그인  -->
 <!-- <meta name="google-signin-scope" content="profile email"> -->
-    <meta name="google-signin-client_id" content="534337827398-chrb7ircl65adnh5mlafvk51pg5dfdm0.apps.googleusercontent.com">
+    <meta name="google-signin-client_id" content="클라이언트 아이디">
     
 <!--     구글 로그인  -->
 <title>ThrowsGG</title>
@@ -145,7 +145,7 @@ main {
 <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
 <!-- 간편 로그인 -->
 <script>
-Kakao.init('e0ec83185c908c4342dec30de21e3f86'); //발급받은 키 중 javascript키를 사용해준다.
+Kakao.init('클라이언트 아이디'); //발급받은 키 중 javascript키를 사용해준다.
 console.log(Kakao.isInitialized()); // sdk초기화여부판단
 //카카오로그인
 function kakaoLogin() {
@@ -318,7 +318,7 @@ function kakaoLogin() {
         };
         window.onload = function () {
           google.accounts.id.initialize({
-            client_id: "534337827398-chrb7ircl65adnh5mlafvk51pg5dfdm0.apps.googleusercontent.com",
+            client_id: "클라이언트 아이디",
             callback: handleCredentialResponse
           });
           google.accounts.id.renderButton(
