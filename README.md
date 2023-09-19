@@ -22,6 +22,10 @@
 |   [@smreo3839](https://github.com/smreo3839)    |    [@JackyparkCode](https://github.com/JackyparkCode)  | [@hoejun1208](https://github.com/hoejun1208)  | [@GiyeonHwang](https://github.com/GiyeonHwang)  |
 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 |
 
+## 프로젝트 소개
+매년 많은 양의 유기 동물이 발생하고 안락사를 당하고 있는 정보를 접하고 유기동물의 입양 및 반환률을 증가 시키고자 개발하게 되었습니다.
+유기동물 게시판, 유기동물 면담 신청 기능, 분실신고 게시판 등을 통해 유기동물의 발생률을 줄이고 입양및 반환률을 증가 시키는 것을 목표로 합니다.
+
 ## 주요기능
 - 유기동물 면담 신청 기능
   - 공고가 올라온 유기동물에 대해 캘린더를 통해 유기동물을 보러갈 날짜와 시간을 적고 면담
@@ -49,10 +53,8 @@
 
 ### 추가자료
 ---
-- [프로젝트 시연 영상 1 ](https://youtu.be/wDm8kGihpuE?feature=shared)
+- [프로젝트 시연 영상](https://youtu.be/Nu6_a8H0X6w?feature=shared)
 
-- [프로젝트 시연 영상 2 ](https://youtu.be/HSs4nn2szYo)
-
-- [ppt](https://docs.google.com/presentation/d/1-45hcPYMcmnSKZY_n7l1tksZjqAmdXwmWltTyFJahb0/edit#slide=id.p1)
+- [프로젝트 ppt](https://docs.google.com/presentation/d/1-45hcPYMcmnSKZY_n7l1tksZjqAmdXwmWltTyFJahb0/edit#slide=id.p1)
 
 
