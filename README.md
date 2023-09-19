@@ -14,6 +14,14 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
+## DEVELOPER
+
+|      마기창      |          박종현         |       박호준         |       황기연         |                                                                                                               
+| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
+|  <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/c3089ae3-5dc5-4ae2-b725-df2e52c876b4" />  |        <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/10322482-ae06-49b0-abd3-1f56e2d81c49" />       |      <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/99dad46f-ee54-4302-8252-c0627d0bac4c" />      |      <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/2b214a6b-44fb-441d-8045-8362f8ba143e" />     |
+|   [@smreo3839](https://github.com/smreo3839)    |    [@JackyparkCode](https://github.com/JackyparkCode)  | [@hoejun1208](https://github.com/hoejun1208)  | [@GiyeonHwang](https://github.com/GiyeonHwang)  |
+| 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 |
+
 
 ### 목적
 ---
@@ -35,13 +43,4 @@
 
 - [ppt](https://docs.google.com/presentation/d/1-45hcPYMcmnSKZY_n7l1tksZjqAmdXwmWltTyFJahb0/edit#slide=id.p1)
 
-### DEVELOPER
----
-- 마기창
-  - [github](https://github.com/smreo3839) 
-- 박종현
-  - [github](https://github.com/JackyparkCode) 
-- 박호준
-  - [github](https://github.com/hoejun1208)    
-- 황기연
-  - [github](https://github.com/GiyeonHwang)
+
