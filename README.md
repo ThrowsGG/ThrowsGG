@@ -33,6 +33,7 @@
 
 - [프로젝트 시연 영상 2 ](https://youtu.be/HSs4nn2szYo)
 
+- [ppt](https://docs.google.com/presentation/d/1-45hcPYMcmnSKZY_n7l1tksZjqAmdXwmWltTyFJahb0/edit#slide=id.p1)
 
 ### DEVELOPER
 ---
