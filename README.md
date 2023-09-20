@@ -1,18 +1,42 @@
 # ThrowsGG
-유기견 구조 프로젝트?
+<div align=center>
+  <img width="300" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/65203500-b7ee-43b8-b582-ed679c9e1e93"/>
+
+  <br>
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThrowsGG%2FThrowsGG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
+
 
 ## 📚 STACKS
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-</div>
+
+### FrontEnd
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/ajax-3888c0?style=for-the-badge&logo=ajax&logoColor=white">
+
+### BackEnd
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/jsp-007396?style=for-the-badge&logo=jsp&logoColor=white"> 
+<img src="https://img.shields.io/badge/jstl-75834b?style=for-the-badge&logo=jstl&logoColor=white">
+<img src="https://img.shields.io/badge/xml-ec9831?style=for-the-badge&logo=xml&logoColor=white"> 
+
+### FrameWork
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> 
+
+### Tool
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"> 
+<img src="https://img.shields.io/badge/whale-00133c?style=for-the-badge&logo=whale&logoColor=white"> 
+
+### DB
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+### Server
+<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 
 ## DEVELOPER
 
@@ -47,6 +71,15 @@
 | 결제  |  영수증  | SMTP |
 | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/7af0dbb0-8ea0-401b-8795-29d03eeb31ac"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/903c767f-07ba-4c76-a2a8-f9953ee95001"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/39dd9c58-43d8-4e00-87b1-89e1fd4d97e2"/> |
 
+## 주요 화면
+|  유기 동물 공고  |  분실신고 게시판   | 쇼핑몰  |
+| :------------: | :------------: |:------------:|
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/8124b790-ca53-4534-9aa6-c9004ef72a2b"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/2d508161-12ab-44d4-ba86-8a24496cd527"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/e5e69e70-d969-4812-802c-6d6214bf2908"/> |
+
+## 추가자료
+- [프로젝트 시연 영상](https://youtu.be/Nu6_a8H0X6w?feature=shared)
+
+- [프로젝트 ppt](https://docs.google.com/presentation/d/1-45hcPYMcmnSKZY_n7l1tksZjqAmdXwmWltTyFJahb0/edit#slide=id.p1)
 
 
 ### 목적
@@ -61,10 +94,6 @@
 ### 기능
 ---
 
-### 추가자료
----
-- [프로젝트 시연 영상](https://youtu.be/Nu6_a8H0X6w?feature=shared)
 
-- [프로젝트 ppt](https://docs.google.com/presentation/d/1-45hcPYMcmnSKZY_n7l1tksZjqAmdXwmWltTyFJahb0/edit#slide=id.p1)
 
 
