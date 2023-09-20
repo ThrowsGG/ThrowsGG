@@ -1,13 +1,12 @@
 # ThrowsGG
 <div align=center>
-  <img width="300" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/65203500-b7ee-43b8-b582-ed679c9e1e93"/>
+  <img width="300" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/a1fcfd89-55f2-4410-a696-5f3a96722fce"/>
 
   <br>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThrowsGG%2FThrowsGG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
-
 
 
 ## 📚 STACKS
