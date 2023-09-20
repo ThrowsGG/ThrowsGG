@@ -37,11 +37,15 @@
   - 동물을 키울때 필요한 도구나 식품을 쇼핑몰에서 구매 가능  
 
 ## 화면
-| 메인 페이지  |  메인(뉴스 크롤링)   | 유기 동물 공고 페이지 |
+| 메인  |  메인(뉴스 크롤링)   | 유기 동물 공고 |
 | :------------: | :------------: |:------------:|
 | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/91100243-9d76-4540-92fb-0cbb74cb53e3"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/55a2a85a-1cb3-4381-9354-6cec6e7e1a55"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/8124b790-ca53-4534-9aa6-c9004ef72a2b"/> |
-| 상세 공고 페이지  |  입양 방문 신청 페이지  |  |
-| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/91100243-9d76-4540-92fb-0cbb74cb53e3"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/55a2a85a-1cb3-4381-9354-6cec6e7e1a55"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/8124b790-ca53-4534-9aa6-c9004ef72a2b"/> |
+| 상세 공고  |  입양 방문 신청  | 분실신고 게시판 |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/c9d224d0-1f4b-493e-ab84-4c6a1dfbab9c"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/725d552e-7ee1-4477-a351-02de9fa6a8ee"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/78cdaaea-1055-4cf5-978c-28e84dbb818b"/> |
+| 상세 게시판  |  쇼핑몰  | 장바구니 |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/fec40baf-cda9-4170-824c-a9ef0968c91e"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/46630e2c-76de-456e-882c-3d4941180134"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/798b0f1e-51c8-48f5-936b-f6d2a4c8ab69"/> |
+| 결제  |  영수증  | SMTP |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/7af0dbb0-8ea0-401b-8795-29d03eeb31ac"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/903c767f-07ba-4c76-a2a8-f9953ee95001"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/39dd9c58-43d8-4e00-87b1-89e1fd4d97e2"/> |
 
 
 
