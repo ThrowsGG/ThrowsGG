@@ -77,18 +77,5 @@
 - [프로젝트 ppt](https://docs.google.com/presentation/d/1-45hcPYMcmnSKZY_n7l1tksZjqAmdXwmWltTyFJahb0/edit#slide=id.p1)
 
 
-### 목적
----
-
-### 주요기능
----
-
-### 효과 
----
-
-### 기능
----
-
-
 
 
