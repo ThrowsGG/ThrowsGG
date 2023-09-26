@@ -1,6 +1,6 @@
 # ThrowsGG
 <div align=center>
-  <img width="300" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/a1fcfd89-55f2-4410-a696-5f3a96722fce"/>
+  <img width="300" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/0731c7c8-8576-4b27-80c2-ecb793c294e6"/>
 
   <br>
 
@@ -26,10 +26,10 @@
 
 |      마기창      |          박종현         |       박호준         |       황기연         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|  <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/c3089ae3-5dc5-4ae2-b725-df2e52c876b4" />  |        <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/10322482-ae06-49b0-abd3-1f56e2d81c49" />       |      <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/99dad46f-ee54-4302-8252-c0627d0bac4c" />      |      <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/2b214a6b-44fb-441d-8045-8362f8ba143e" />     |
+|  <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/37c8541e-c83e-41f5-8b08-381a33a8d9fd" />  |        <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/972f1509-0dea-4571-b4c7-52c945ff2f2f" />       |      <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/24afab19-fb02-40b7-a0c4-075647d69e84" />      |      <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/a640815c-d5b9-4337-9059-3c9fb9491270" />     |
 |   [@smreo3839](https://github.com/smreo3839)    |    [@JackyparkCode](https://github.com/JackyparkCode)  | [@hoejun1208](https://github.com/hoejun1208)  | [@GiyeonHwang](https://github.com/GiyeonHwang)  |
 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 컴퓨터공학부 3학년 |
- 
+
   ## 📚 STACKS
 
 ### FrontEnd
@@ -62,13 +62,13 @@
 ## 화면
 | 메인  |  메인(뉴스 크롤링)   | 유기 동물 공고 |
 | :------------: | :------------: |:------------:|
-| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/91100243-9d76-4540-92fb-0cbb74cb53e3"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/55a2a85a-1cb3-4381-9354-6cec6e7e1a55"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/8124b790-ca53-4534-9aa6-c9004ef72a2b"/> |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/3ce6430a-59ae-4fc9-8028-dc46efcab9f0"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/a2fb0a6f-84b4-499f-9dc6-e3570127d7f3"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/400102ec-841e-4998-97d2-53fcc7bb2390b"/> |
 | 상세 공고  |  입양 방문 신청  | 분실신고 게시판 |
-| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/c9d224d0-1f4b-493e-ab84-4c6a1dfbab9c"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/725d552e-7ee1-4477-a351-02de9fa6a8ee"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/78cdaaea-1055-4cf5-978c-28e84dbb818b"/> |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/d2a25d49-0bf4-479a-b80e-568dfd59e156"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/eeb7194d-1de8-46f5-9806-d2f49b0a26fd"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/58aa12a8-e475-4551-9fa6-31a35810b917"/> |
 | 상세 게시판  |  쇼핑몰  | 장바구니 |
-| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/fec40baf-cda9-4170-824c-a9ef0968c91e"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/46630e2c-76de-456e-882c-3d4941180134"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/798b0f1e-51c8-48f5-936b-f6d2a4c8ab69"/> |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/96c83690-77e5-47bb-919a-32fdf50d232f"/> |<img width="329" src="=https://github.com/ThrowsGG/ThrowsGG/assets/101163897/f4eed712-9a66-409f-bbfe-a487d0191529"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/42951e0e-4d30-4938-af96-a8d4723cc5f3"/> |
 | 결제  |  영수증  | 이메일 서비스 |
-| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/7af0dbb0-8ea0-401b-8795-29d03eeb31ac"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/903c767f-07ba-4c76-a2a8-f9953ee95001"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/39dd9c58-43d8-4e00-87b1-89e1fd4d97e2"/> |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/39580c3f-a801-42db-9729-81a9567e89c5"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/c78c7876-544b-470f-acdb-399692f46ec6"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/63bb3aac-8e2f-4826-a0fb-23d3a6d8364a"/> |
 
 
 ## 추가자료
