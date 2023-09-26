@@ -58,7 +58,6 @@
 ### Server
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> 
 
-
 ## 화면
 | 메인  |  메인(뉴스 크롤링)   | 유기 동물 공고 |
 | :------------: | :------------: |:------------:|
@@ -66,7 +65,7 @@
 | 상세 공고  |  입양 방문 신청  | 분실신고 게시판 |
 | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/d2a25d49-0bf4-479a-b80e-568dfd59e156"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/eeb7194d-1de8-46f5-9806-d2f49b0a26fd"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/58aa12a8-e475-4551-9fa6-31a35810b917"/> |
 | 상세 게시판  |  쇼핑몰  | 장바구니 |
-| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/96c83690-77e5-47bb-919a-32fdf50d232f"/> |<img width="329" src="=https://github.com/ThrowsGG/ThrowsGG/assets/101163897/f4eed712-9a66-409f-bbfe-a487d0191529"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/42951e0e-4d30-4938-af96-a8d4723cc5f3"/> |
+| <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/96c83690-77e5-47bb-919a-32fdf50d232f"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/f4eed712-9a66-409f-bbfe-a487d0191529"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/42951e0e-4d30-4938-af96-a8d4723cc5f3"/> |
 | 결제  |  영수증  | 이메일 서비스 |
 | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/39580c3f-a801-42db-9729-81a9567e89c5"/> |<img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/c78c7876-544b-470f-acdb-399692f46ec6"/> | <img width="329" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/63bb3aac-8e2f-4826-a0fb-23d3a6d8364a"/> |
 
